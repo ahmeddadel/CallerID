@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Caller ID</string>
+    <string name="receive_incoming_calls">Incoming Calls Receiver</string>
+    <string name="developed_by_nahmed_adel">Developed by:-\nAhmed Adel</string>
+</resources>
